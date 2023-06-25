@@ -1,0 +1,25 @@
+header{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-style: oblique;
+    background-color: black;
+    color: #3197CA
+}
+
+.container{
+    background-color: black;
+    padding: 20px;
+}
+
+.container-home{
+    color: black;
+    margin-block: 10px;
+    background-color: #3197CA;
+    padding-block: 50px;
+    padding-inline: 10px;
+}
+
+footer{
+    color: #3197CA;
+    text-align: center;
+}
